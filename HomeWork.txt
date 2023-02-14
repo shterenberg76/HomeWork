@@ -1,0 +1,60 @@
+0 mkdir -p /home /animals
+   1 ls /home /animals
+   2 cd /home /animals
+   3 cd /animals
+   4 mkdir -p /dogs /cats /fish
+   5 mkdir -p /dogs /pluto
+   6 mkdir -p /cats /nemo
+   7 mkdir -p /fish /garfield
+   8 ls
+   9 cd
+  10 mkdir -p /tmp /adam
+  11 mkdir -p /home /humans
+  12 cp /adam /home /humans
+  13 cd /home
+  14 cd /humans
+  15 cd /adam
+  16 cd
+  17 mkdir -p /tmp /evA
+  18 mv /evA /opt /eve
+  19 mkdir -p /opt /eve
+  20 rmdir /eve
+  21 mv /evA /eva /opt
+  22 cd /opt
+  23 cd
+  24 mv /evA /eve
+  25 cd /tmp
+  26 cd /evA
+  27 mkdir /evA
+  28 cd /evA
+  29 cd
+  30 mv /evA /eve
+  31 mv /eve /opt
+  32 cd /opt
+  33 cd /eve
+  34 cd
+  35 cd /tmp
+  36 cd /eve
+  37 mv /opt /eve
+  38 cd /eve
+  39 cd
+  40 mv -i /eve /opt
+  41 cd /opt
+  42 cd /eve
+  43 cd
+  44 mv /opt /eve
+  45 cd /tmp
+  46 cd /eve
+  47 cd
+  48 rmdir /eve
+  49 cd /tmp
+  50 rmdir /eve
+  51 cd /eve
+  52 mrdir /eve
+  53 touch evA.txt
+  54 cd
+  55 mv evA.txt/eva.txt
+  56 ls /eve
+  57 mv eva.txt opt
+  58 histori
+  59 history
